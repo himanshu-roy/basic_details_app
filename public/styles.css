@@ -1,0 +1,44 @@
+.user-info {
+    width: 40%;
+    max-width: 400px;
+    float: left;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-sizing: border-box;
+}
+
+.inner-box {
+    border: 1px solid black;
+    padding: 10px;
+    background-color: lightgray;
+}
+
+.user-list {
+    width: 45%;
+    max-width: 400px;
+    float: left;
+    margin-right: 5%;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 5px;
+}
+
+.form {
+    margin-top: 10%;
+
+}
+
+a {
+    text-decoration: none;
+}
